@@ -1,4 +1,5 @@
-Education Management System
+# Education Management System
+
 This project serves as the backend API for an Education Management System, developed using Node.js and Express. The API includes several important functionalities:
 
 User Authentication: Handles user registration and login processes.
